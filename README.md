@@ -1,71 +1,64 @@
-# Getting Started with Create React App
+Portfolio Website
+This is my personal portfolio website, built using React (bootstrapped with Create React App). The project showcases my skills, projects, resume, and contact information. The site is fully responsive and styled using modern CSS techniques.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+npm start
+Runs the portfolio site in development mode.
+Open http://localhost:3000 to view it in your browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
+npm test
+Launches the test runner in interactive watch mode.
+See the section about running tests for more information.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+npm run build
+Builds the site for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about deployment for more information.
 
-### `npm run eject`
+npm run eject
+Note: this is a one-way operation. Once you eject, you can't go back!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+If you need full control over the configuration, you can eject at any time.
+This command will copy all the configuration files and dependencies (webpack, Babel, ESLint, etc.) into your project.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Features
+Built with React: Leveraging component-based architecture for modular and maintainable code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Styled with CSS: Custom styles for a unique and modern look.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Responsive Design: Optimized for all devices—desktop, tablet, and mobile.
 
-## Learn More
+Interactive UI: Smooth navigation and interactive project showcases.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Easy Customization: Components and styles are easy to update as my skills and projects grow.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Technologies Used
+React
 
-### Code Splitting
+JavaScript (ES6+)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+HTML5
 
-### Analyzing the Bundle Size
+CSS3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Learn More
+You can learn more about the tools I used:
 
-### Making a Progressive Web App
+React documentation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Create React App documentation
 
-### Advanced Configuration
+MDN Web Docs: HTML
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+MDN Web Docs: CSS
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# portfolio
+MDN Web Docs: JavaScript
