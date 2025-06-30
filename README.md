@@ -9,7 +9,7 @@ In the project directory, you can run:
 ## npm start
 
 Runs The Portfolio Site In Development Mode.
-Open http://localhost:3000 To View It In Your Browser.
+Open http://yskportfolio.me To View It In Your Browser.
 
 The Page Will Reload When You Make Changes.
 You May Also See Any Lint Errors In The Console.
