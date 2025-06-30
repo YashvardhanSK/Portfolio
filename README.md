@@ -1,47 +1,33 @@
-#Portfolio Website
-This is my personal portfolio website, built using React (bootstrapped with Create React App). The project showcases my skills, projects, resume, and contact information. The site is fully responsive and styled using modern CSS techniques.
+## Getting Started With My Portfolio Website
 
-Available Scripts
+This Is My Personal Portfolio Website, Built Using React (Bootstrapped With CreateReactApp). The Project Showcases My Skills, Projects, Resume, And Contact Information. The Site Is Fully Responsive And Styled Using Modern CSS Techniques.
+
+## Available Scripts
+
 In the project directory, you can run:
 
-npm start
-Runs the portfolio site in development mode.
-Open http://localhost:3000 to view it in your browser.
+## npm start
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+Runs The Portfolio Site In Development Mode.
+Open http://localhost:3000 To View It In Your Browser.
 
-npm test
-Launches the test runner in interactive watch mode.
-See the section about running tests for more information.
+The Page Will Reload When You Make Changes.
+You May Also See Any Lint Errors In The Console.
 
-npm run build
-Builds the site for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+Built With React: Leveraging Component-Based Architecture For Modular And Maintainable Code.
 
-See the section about deployment for more information.
+Styled With CSS: Custom Styles For A Unique And Modern Look.
 
-npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
+Responsive Design: Optimized For All Devices—Desktop, Tablet, And Mobile.
 
-If you need full control over the configuration, you can eject at any time.
-This command will copy all the configuration files and dependencies (webpack, Babel, ESLint, etc.) into your project.
+Interactive UI: Smooth Navigation And Interactive Project Showcases.
 
-Features
-Built with React: Leveraging component-based architecture for modular and maintainable code.
+Easy Customization: Components And Styles Are Easy To Update As My Skills And Projects Grow.
 
-Styled with CSS: Custom styles for a unique and modern look.
+## TechnologiesUsed
 
-Responsive Design: Optimized for all devices—desktop, tablet, and mobile.
-
-Interactive UI: Smooth navigation and interactive project showcases.
-
-Easy Customization: Components and styles are easy to update as my skills and projects grow.
-
-Technologies Used
 React
 
 JavaScript (ES6+)
@@ -49,16 +35,3 @@ JavaScript (ES6+)
 HTML5
 
 CSS3
-
-Learn More
-You can learn more about the tools I used:
-
-React documentation
-
-Create React App documentation
-
-MDN Web Docs: HTML
-
-MDN Web Docs: CSS
-
-MDN Web Docs: JavaScript
